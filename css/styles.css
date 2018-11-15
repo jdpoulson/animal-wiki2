@@ -1,0 +1,10 @@
+#turtles, #snakes, #insects {
+  display: none;
+}
+.names h2 {
+  display: inline;
+  margin: 10px;
+}
+img {
+  max-width: 250px;
+}
